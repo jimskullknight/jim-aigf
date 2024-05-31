@@ -21,7 +21,7 @@ import SectionWrapper from "./SectionWrapper.svelte";
                 </div>
             </div>
             {/each}
-            <p>400+</p>
+            <p>500+</p>
         </div>
     </div>
 </SectionWrapper>
