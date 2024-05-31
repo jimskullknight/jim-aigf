@@ -40,8 +40,8 @@ button:focus-visible {
 }
 
 .specialBtnDark {
-    background: #646cff;
-    color: purple;
+    background: purple;
+    color: pink;
 }
 
 .specialBtn:hover {
